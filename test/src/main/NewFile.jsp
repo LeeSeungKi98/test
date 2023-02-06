@@ -8,5 +8,7 @@
 </head>
 <body>
 <h1>test</h1>
+<hr>
+<div id="test">이것은 테스트 파일입니다</div>
 </body>
 </html>
